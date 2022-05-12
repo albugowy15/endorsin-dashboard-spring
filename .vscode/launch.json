@@ -1,0 +1,15 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-EndorsinDashboardSpringApplication<registration-login-spring-boot-security-thymeleaf>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"mainClass": "com.endorsin.springdashboard.EndorsinDashboardSpringApplication",
+			"projectName": "registration-login-spring-boot-security-thymeleaf",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
